@@ -1,0 +1,54 @@
+﻿@model AkaLibraryMVC.Models.SignOutBookVM
+@{
+    ViewBag.Title = "Sign Out";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Sign Out a Book</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.Hidden("libraryId", Model.LibraryId)
+
+    <div class="form-group">
+        <label for="member-id" class="control-label col-md-2">Member Id</label>
+        <div class="col-md-10">
+            @Html.DropDownList("memberId", Model.Members, new { id = "member-id", @class = "form-control" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="book-id" class="control-label col-md-2">Book</label>
+        <div class="col-md-10">
+            @Html.DropDownList("bookId", Model.Books, new { id = "book-id", @class = "form-control" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Sign Out a Book" class="btn btn-default" />
+        </div>
+    </div>
+
+    @if (@ViewBag.SuccessMessage != null)
+    {
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <div class="alert alert-success">
+                    <strong>Success!</strong> @ViewBag.SuccessMessage
+                </div>
+            </div>
+        </div>
+    }
+</div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

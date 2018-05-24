@@ -1,0 +1,14 @@
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.DataLayer\bin\Debug\AKA.DataLayer.dll.config
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.DataLayer\bin\Debug\AKA.DataLayer.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.DataLayer\bin\Debug\AKA.DataLayer.pdb
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.DataLayer\obj\Debug\AKA.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.DataLayer\obj\Debug\AKA.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.DataLayer\obj\Debug\AKA.DataLayer.csproj.CopyComplete
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.DataLayer\obj\Debug\AKA.DataLayer.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.DataLayer\obj\Debug\AKA.DataLayer.pdb
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.DataLayer\bin\Debug\AKA.Utils.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.DataLayer\bin\Debug\AKA.Utils.pdb

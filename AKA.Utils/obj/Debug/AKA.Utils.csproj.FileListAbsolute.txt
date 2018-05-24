@@ -1,0 +1,5 @@
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.Utils\bin\Debug\AKA.Utils.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.Utils\bin\Debug\AKA.Utils.pdb
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.Utils\obj\Debug\AKA.Utils.csproj.CoreCompileInputs.cache
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.Utils\obj\Debug\AKA.Utils.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.Utils\obj\Debug\AKA.Utils.pdb

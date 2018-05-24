@@ -1,0 +1,134 @@
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\csc.exe
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\System.Collections.Immutable.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\vbc.exe
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\VBCSCompiler.exe
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\VBCSCompiler.exe.config
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\AkaLibraryMVC.dll.config
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\AkaLibraryMVC.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\AkaLibraryMVC.pdb
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\Antlr3.Runtime.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\EntityFramework.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\EntityFramework.SqlServer.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\Newtonsoft.Json.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Helpers.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Mvc.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Optimization.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Razor.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.WebPages.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.WebPages.Razor.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\WebGrease.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\EntityFramework.xml
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\EntityFramework.SqlServer.xml
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Helpers.xml
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Mvc.xml
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Optimization.xml
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Razor.xml
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.WebPages.xml
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.WebPages.Razor.xml
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\Antlr3.Runtime.pdb
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\bin\Newtonsoft.Json.xml
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\obj\Debug\AkaLibraryMVC.csprojResolveAssemblyReference.cache
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\obj\Debug\AkaLibraryMVC.dll
+c:\users\paul.aka\documents\visual studio 2015\Projects\AkaLibraryMVC\AkaLibraryMVC\obj\Debug\AkaLibraryMVC.pdb
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\csc.exe
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\vbc.exe
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\AkaLibraryMVC.dll.config
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\AkaLibraryMVC.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\AkaLibraryMVC.pdb
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\Antlr3.Runtime.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\EntityFramework.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\Newtonsoft.Json.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Helpers.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Mvc.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Optimization.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Razor.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.WebPages.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\WebGrease.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\EntityFramework.xml
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Helpers.xml
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Mvc.xml
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Optimization.xml
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Razor.xml
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.WebPages.xml
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\Antlr3.Runtime.pdb
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\bin\Newtonsoft.Json.xml
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\obj\Debug\AkaLibraryMVC.csprojResolveAssemblyReference.cache
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\obj\Debug\AkaLibraryMVC.dll
+C:\Users\paul.AKA\Downloads\AkaLibraryMVC\AkaLibraryMVC\obj\Debug\AkaLibraryMVC.pdb
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\csc.exe
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\vbc.exe
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\AkaLibraryMVC.dll.config
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\AkaLibraryMVC.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\AkaLibraryMVC.pdb
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\Antlr3.Runtime.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\EntityFramework.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\Newtonsoft.Json.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Helpers.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Mvc.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Optimization.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Razor.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.WebPages.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\WebGrease.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\EntityFramework.xml
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Helpers.xml
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Mvc.xml
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Optimization.xml
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.Razor.xml
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.WebPages.xml
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\Antlr3.Runtime.pdb
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\bin\Newtonsoft.Json.xml
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\obj\Debug\AkaLibraryMVC.csprojResolveAssemblyReference.cache
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\obj\Debug\AkaLibraryMVC.csproj.CoreCompileInputs.cache
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\obj\Debug\AkaLibraryMVC.csproj.CopyComplete
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\obj\Debug\AkaLibraryMVC.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AkaLibraryMVC\obj\Debug\AkaLibraryMVC.pdb

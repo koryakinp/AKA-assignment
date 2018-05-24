@@ -1,0 +1,15 @@
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.BusinessLayer\bin\Debug\AKA.BusinessLayer.dll.config
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.BusinessLayer\bin\Debug\AKA.BusinessLayer.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.BusinessLayer\bin\Debug\AKA.BusinessLayer.pdb
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.BusinessLayer\bin\Debug\AKA.DataLayer.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.BusinessLayer\bin\Debug\AKA.DataLayer.pdb
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.BusinessLayer\bin\Debug\AKA.DataLayer.dll.config
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.BusinessLayer\obj\Debug\AKA.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.BusinessLayer\obj\Debug\AKA.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.BusinessLayer\obj\Debug\AKA.BusinessLayer.csproj.CopyComplete
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.BusinessLayer\obj\Debug\AKA.BusinessLayer.dll
+C:\Users\pavelkoryakin\Desktop\AKA\AkaLibraryMVC\AKA.BusinessLayer\obj\Debug\AKA.BusinessLayer.pdb

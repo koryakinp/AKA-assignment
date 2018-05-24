@@ -1,0 +1,36 @@
+﻿@model IEnumerable<AKA.DataLayer.Library>
+
+@{
+    ViewBag.Title = "Libraries";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Libraries</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.City)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.City)
+        </td>
+        <td>
+            @Html.ActionLink("Sign Out", "SignOutBook", "Book", new { libraryId = item.LibraryId }, null) | 
+            @Html.ActionLink("Return", "ReturnBook", "Book", new { libraryId = item.LibraryId }, null)
+        </td>
+    </tr>
+}
+
+</table>
